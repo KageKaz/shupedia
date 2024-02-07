@@ -3,11 +3,12 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Shupedia",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: G-X9GQV3XC74
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
@@ -26,9 +27,9 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          secondary: "#bf95f9",
+          tertiary: "#8875ff",
+          highlight: "rgba(0, 0, 0, 0.22)",
         },
         darkMode: {
           light: "#161618",
@@ -36,9 +37,9 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          secondary: "#bf95f9",
+          tertiary: "#8875ff",
+          highlight: "rgba(0, 0, 0, 0.22))",
         },
       },
     },
