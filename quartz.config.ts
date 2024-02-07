@@ -3,12 +3,12 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Shupedia",
+    pageTitle: "shupedia",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "google",
-      tagId: G-X9GQV3XC74
+      provider: 'google', 
+      tagId: "G-X9GQV3XC74", 
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
@@ -39,7 +39,7 @@ const config: QuartzConfig = {
           dark: "#ebebec",
           secondary: "#bf95f9",
           tertiary: "#8875ff",
-          highlight: "rgba(0, 0, 0, 0.22))",
+          highlight: "rgba(0, 0, 0, 0.22)",
         },
       },
     },
