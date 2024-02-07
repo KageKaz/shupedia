@@ -1,0 +1,1 @@
+Funds for a particular representative's district used to please voters and win votes.

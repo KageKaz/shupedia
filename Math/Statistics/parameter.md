@@ -1,0 +1,1 @@
+A [[parameter]] is a statistical measure of an entire [[population]].

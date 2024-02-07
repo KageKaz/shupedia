@@ -1,0 +1,1 @@
+Votes if there is a tie in the [[Senate]].

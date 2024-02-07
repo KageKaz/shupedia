@@ -1,0 +1,1 @@
+Limits the [[president]] to two terms.

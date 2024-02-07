@@ -1,0 +1,1 @@
+number of sigma [[bond|bonds]] + number of lone pairs

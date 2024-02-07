@@ -1,0 +1,1 @@
+Largest and most powerful [[committee]] in the [[Senate]]. It debates where federal money is going to be spent.

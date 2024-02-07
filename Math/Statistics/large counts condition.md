@@ -1,0 +1,3 @@
+The large counts condition determines if the [[sampling distribution]] of the sample proportion is [[normal distribution|normal]] or not. 
+
+It is if $np\geq 10$ and $n(1-p)\geq 10$. The intuition from this comes from the fact that if either inequality is false, either the proportion is too close to 0 or 1, or the sample size is too small to establish normalcy. Remember, the proportion has to be between 0 and 1. Another way to think about this is that the [[expected value]] of both successes and failures has to be greater than 10. 

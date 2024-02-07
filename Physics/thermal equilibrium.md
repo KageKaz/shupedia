@@ -1,0 +1,1 @@
+When two things that have different [[temperature|temperatures]] touch each other, their [[molecule|molecules]] start bumping into each other. At each collision, on [[mean|average]] the slower moving [[molecule]] gains [[energy]] and the faster moving one loses it. This keeps happening until they reach the same [[temperature]], which is [[thermal equilibrium]]. 

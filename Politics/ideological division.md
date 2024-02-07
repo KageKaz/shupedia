@@ -1,0 +1,1 @@
+Over time, [[Republican party|Republicans]] have become more [[conservative]] and [[Democratic party|Democrats]] have become more [[liberal]].

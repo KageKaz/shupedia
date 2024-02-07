@@ -1,0 +1,2 @@
+An [[exothermic]] process has a negative $\Delta H$. It releases [[energy]] to the surroundings. 
+> [!example] a combustion reaction that releases heat into the surroundings. If a reaction takes place in a beaker and the glass feels hot, it's [[exothermic]] because [[energy]] is released from the [[system]] to the surroundings.

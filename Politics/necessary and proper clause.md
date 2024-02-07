@@ -1,0 +1,1 @@
+Congress has the power to pass any law which may be deemed necessary and proper to the carrying out of the [[enumerated powers]].
