@@ -11,7 +11,7 @@ const config: QuartzConfig = {
       tagId: "G-X9GQV3XC74", 
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "kagekaz.github.io/shupedia",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
