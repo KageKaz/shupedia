@@ -1,0 +1,1 @@
+The median is the middle number of a [[distribution]]. It is not effected much by skew, thus is a good estimate of center for skewed [[distribution|distributions]].

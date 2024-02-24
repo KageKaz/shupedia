@@ -1,0 +1,1 @@
+> [!info] the variable that causes another thing to change

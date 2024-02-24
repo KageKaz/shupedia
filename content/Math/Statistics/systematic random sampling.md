@@ -1,0 +1,1 @@
+> [!info] In a systematic random sample, we arrange members of a population in some order, pick a random starting point, and select every member in a set interval.

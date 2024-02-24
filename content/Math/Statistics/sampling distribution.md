@@ -8,13 +8,13 @@ The [[sampling distribution]] is the distribution of all possible values of that
 
 # Sample [[mean]]
 To find if the [[sampling distribution]] of the sample [[mean]] is [[normal distribution|normal]], you can use the [[central limit theorem]]. Because [[mean]] is unbiased, the [[mean]] of the [[sampling distribution]] is equal to the [[mean]] of the population.
-The greater your sample size, the smaller the [[variance]] of the [[sampling distribution]].  Thus, $\sigma_{\bar{x}}^2=\frac{\sigma^2}{n}$
+The greater your sample size, the smaller the [[Math/Statistics/variance]] of the [[sampling distribution]].  Thus, $\sigma_{\bar{x}}^2=\frac{\sigma^2}{n}$
 Solving for [[standard deviation]]: $$\sigma_{\bar{x}}=\frac{\sigma}{\sqrt{ n }}$$
 ## Difference of Sample Means
 The [[mean]] of the difference of two [[sampling distribution|sampling distributions]] is the [[mean]] of those [[sampling distribution|sampling distributions]] subtracted from each other. 
 
 The equation for the [[standard deviation]] of the difference can be derived:
-* We cannot subtract [[standard deviation|standard deviations]] because there is a square root. We can add the [[variance|variances]] though. The reason why we add and do not subtract is because [[variance]] is a measure of spread, and so when combining [[sampling distribution|sampling distributions]] it always increases. 
+* We cannot subtract [[standard deviation|standard deviations]] because there is a square root. We can add the [[Math/Statistics/variance|variances]] though. The reason why we add and do not subtract is because [[Math/Statistics/variance]] is a measure of spread, and so when combining [[sampling distribution|sampling distributions]] it always increases. 
 *  When we use the formula for [[standard deviation]] above, we get (assuming independence):
 $$
 \sigma_{\bar{x_{1}}}-\sigma_{\bar{x_{2}}}=\frac{\sigma_{1}}{\sqrt{ n_{1} }}+\frac{\sigma_2}{\sqrt{ n_{2} }}

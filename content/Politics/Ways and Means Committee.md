@@ -1,1 +1,1 @@
-Powerful [[committee]] on [[taxes | taxation]] bills. 
+Powerful [[committee]] on[[taxes | taxation]] bills. 

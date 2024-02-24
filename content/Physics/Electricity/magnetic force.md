@@ -1,0 +1,1 @@
+caused by the [[electromagnetic force]], one of the [[four fundamental forces]] 

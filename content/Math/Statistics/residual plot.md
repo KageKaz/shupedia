@@ -1,0 +1,2 @@
+The residual plot is a graph of the [[residual|residuals]] of a best-fit-line. If the residual plot is relatively flat, that means that roughly points vary the same amount above and below the line, meaning the line is a good approximation of the data. 
+If the residual plot is curved or slanted, perhaps a different type of best-fit line should be used.
