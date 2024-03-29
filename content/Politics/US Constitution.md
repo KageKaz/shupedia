@@ -1,3 +1,11 @@
+---
+aliases:
+  - constitution
+  - constitutional
+---
+# Article 3
+## Section 1
+**The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish**. ^bbe33c
 # Amendments
 [[1st Amendment]]
 [[2nd Amendment]]

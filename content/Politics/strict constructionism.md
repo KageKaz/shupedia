@@ -1,0 +1,1 @@
+> [!info] Interpret the [[US Constitution|constitution]] as the words are literally written

@@ -1,0 +1,1 @@
+Administers and enforces campaign finance laws

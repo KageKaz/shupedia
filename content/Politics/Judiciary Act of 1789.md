@@ -1,0 +1,2 @@
+Established lower federal courts
+Article 13 established that the [[Supreme Court]] had the power to issue [[Writ of Mandamus|Writs of Mandamus]] in [[original jurisdiction]] cases. This was declared unconstitutional in [[Marbury v Madison]]. 

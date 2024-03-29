@@ -8,5 +8,5 @@
 	* Important that this job belongs to the people's representatives.
 * Power to establish [[post offices]].
 * Power to give [[patents]].
-* Power to establish [[lower courts]].
+* Power to establish [[Courts of Appeals 1]] and [[District Courts]].
 * Power over [[seat of government]] and places purchased.

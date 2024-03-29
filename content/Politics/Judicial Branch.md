@@ -1,0 +1,5 @@
+![[US Constitution#^bbe33c]]
+The Judicial Branch consists of a three tiered hierarchy, created by the [[Judiciary Act of 1789]]
++ [[Supreme Court]]
++ [[Courts of Appeals 1]]
++ [[District Courts]]

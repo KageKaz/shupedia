@@ -6,8 +6,10 @@ usually, the control group is given a placebo to help mitigate the [[placebo eff
 
 controlled experiments are able to support causation
 ### Variables
-[[explanatory variable]] -> [[response variable]] 
+[[explanatory variable]] causes a change in the [[response variable]] 
 ### Group Assignments
-* [[random assignment]]
+* random assignment
 * [[block design]]
 * [[matched pairs]]
+### Inferences
+![[Pasted image 20240328210213.png|500]]

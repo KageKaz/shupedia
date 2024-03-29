@@ -1,0 +1,1 @@
+> [!info] [[US Constitution|constitution]] is a living, evolving document
