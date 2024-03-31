@@ -2,7 +2,8 @@
 aliases:
   - r
 ---
-> [!info] $r=\frac{1}{n-1}\sum\left( \frac{x_{i}-\bar{x}}{s_{x}} \right)\left( \frac{y_{i-\bar{y}}}{s^y} \right)$
+> [!definition] 
+>  $r=\frac{1}{n-1}\sum\left( \frac{x_{i}-\bar{x}}{s_{x}} \right)\left( \frac{y_{i-\bar{y}}}{s^y} \right)$
 
 essentially what we are doing is taking the product of the [[z-score|z-scores]] of each point and [[mean|averaging]] them.
 
@@ -14,7 +15,8 @@ if r is -1, then a straight line with negative slope can perfectly describe the 
 intuition: when the [[z-score|z-scores]] have the same sign (both are below or above their respective means), the product is positive, making the average higher, leading to higher correlation. When they don't have the same sign, it contributes to a lower correlation coefficient. 
 
 ### $r^2$
-> [!info] $r^2$ measures how much error is eliminated when we use a [[regression line|least-squares regression line]].
+> [!definition]
+>  $r^2$ measures how much error is eliminated when we use a [[regression line|least-squares regression line]].
 
 $r^2$ is also called the coefficient of determination
 

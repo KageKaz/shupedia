@@ -2,7 +2,8 @@
 aliases:
   - variances
 ---
-> [!info] variance is the typical squared distance a distribution has from the mean
+> [!definition] 
+> variance is the typical squared distance a distribution has from the mean
 
 # Population Variance
 $$

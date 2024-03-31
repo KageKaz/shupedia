@@ -1,1 +1,1 @@
-> [!info] sample whole clusters at a time
+> [!definition] sample whole clusters at a time

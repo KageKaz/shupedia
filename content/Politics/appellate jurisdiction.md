@@ -1,1 +1,1 @@
-> [!info] The court can only hear appeals from lower courts
+> [!definition] The court can only hear appeals from lower courts

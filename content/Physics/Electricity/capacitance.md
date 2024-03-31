@@ -1,4 +1,4 @@
-> [!info] Capacitance is equal to the charge of one side of the [[capacitor]] divided by the voltage difference across the [[capacitor]].
+> [!definition] Capacitance is equal to the charge of one side of the [[capacitor]] divided by the voltage difference across the [[capacitor]].
   
 Large capacitance -> can store large charge
 Small capacitance -> can store small charge

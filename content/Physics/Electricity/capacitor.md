@@ -2,7 +2,8 @@
 aliases:
   - capacitors
 ---
-> [!info] Capacitors store charge. They are usually built using two plates that aren't touching. The [[capacitance]] of a capacitor tells you how good it is at storing charge.
+> [!definition] 
+> Capacitors store charge. They are usually built using two plates that aren't touching. The [[capacitance]] of a capacitor tells you how good it is at storing charge.
 
 When you hook up a capacitor to a battery, the negative terminal of the battery repels electrons onto one plate, while the positive terminal attracts electrons, leaving one plate negatively charged and one plate positively charged with equal charge. At some point, the electrons will be pulled by the positive side of the capacitor as much as the positive terminal of the battery, and the capacitor will be fully charged, with the same [[voltage]] as the battery.
 
