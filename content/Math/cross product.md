@@ -1,4 +1,5 @@
-> [!info] $\vec{a}\times \vec{b}=\mid \vec{a}\mid\mid \vec{b}\mid \sin \theta\cdot \hat{n}$
+> [!info] 
+> $\vec{a}\times \vec{b}=\mid \vec{a}\mid\mid \vec{b}\mid \sin \theta\cdot \hat{n}$
 
 $\hat{n}$ is perpendicular to both $\vec{a}$ and $\hat{b}$
 $\mid \vec{a}\mid\cdot \sin \theta$ is the component of $\vec{a}$ that is perpendicular to $\vec{b}$. Essentially you are finding how far apart these two [[vector|vectors]] are, and pointing it in a third direction.
