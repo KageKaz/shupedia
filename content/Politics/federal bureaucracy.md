@@ -21,7 +21,7 @@ Government Corporation
 + Issue fines for non-compliance
 	+ This takes a lot of work, which can slow down the bureaucracy by a lot
 + Interact with [[US Congress|congress]]
-	+ [[Iron Triangle 1]]
+	+ [[Iron Triangle]]
 
 ### How they do it 
 Delegated discretionary authority - the power they have is delegated from the executive branch to enforce the law. 
@@ -39,7 +39,7 @@ Pendleton Civil Service Act created a merit-based system instead of the spoils s
 [[Department of Education ]]
 [[Environmental Protection Agency]]
 [[Federal Elections Commission]]
-[[Securities and Exchange Commission 1]]
+[[Securities and Exchange Commission]]
 
 ### Checks
 Congressional Oversight

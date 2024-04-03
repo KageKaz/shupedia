@@ -2,7 +2,7 @@
 aliases:
   - study
 ---
-> [!info] collect data, see if you can make insigths
+> [!info] collect data, see if you can make insights
 
 studies cannot imply causation, only correlation
 # types

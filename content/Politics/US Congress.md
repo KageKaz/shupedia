@@ -29,5 +29,5 @@ The budget allocates both revenue and expenditures.
 
 ### Models of Representation
 [[Delegate Model]]
-[[Trustee Model]]
-[[Politico Model]]
+[[trustee model]]
+[[politico model]]

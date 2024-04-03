@@ -1,0 +1,1 @@
+Regulates stock market and prevents fraud
