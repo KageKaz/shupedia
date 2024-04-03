@@ -39,14 +39,14 @@ The [[variance]] of the sum and difference of two [[independent]] [[random varia
 > [!question]- Why not subtract the [[variance|variances]]?
 > Conceptually, because [[variance]] deals with spread, subtracting [[variance|variances]] should increase it. It is always positive because it is squared. Mathematically, 
 > $$
-\begin{align}
-\sigma_{X-Y}^2 = \sigma_{X+(-Y)}^2 &=\sigma^2_{X}+\sigma^2_{-Y} \\
-\sigma_{-Y}^2&=\sum (-Y_{i}-\mu_{Y})^2p_{i} \\
-\sigma_{-Y}^2&=\sum (-1)^2(Y_{i}+\mu_{Y})^2p_{i} &&\text{factor out} -1\\
-\sigma_{-Y}^2&=\sum (Y_{i}+\mu_{Y})^2p_{i} &&-1^2=1\\
-\sigma_{-Y}^2&=\sigma_{Y}^2 \\
-\sigma_{X-Y}^2 &= \sigma^2_{X}+\sigma^2_{Y}
-\end{align}
+> \begin{align}
+> \sigma_{X-Y}^2 = \sigma_{X+(-Y)}^2 &=\sigma^2_{X}+\sigma^2_{-Y} \\
+> \sigma_{-Y}^2&=\sum (-Y_{i}-\mu_{Y})^2p_{i} \\
+> \sigma_{-Y}^2&=\sum (-1)^2(Y_{i}+\mu_{Y})^2p_{i} &&\text{factor out} -1\\
+> \sigma_{-Y}^2&=\sum (Y_{i}+\mu_{Y})^2p_{i} &&-1^2=1\\
+> \sigma_{-Y}^2&=\sigma_{Y}^2 \\
+>\sigma_{X-Y}^2 &= \sigma^2_{X}+\sigma^2_{Y}
+> \end{align}
 > $$
 
 
