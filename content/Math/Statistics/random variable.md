@@ -26,7 +26,8 @@ The [[mean]] of the sum or difference of [[random variable|random variables]] is
 The [[variance]]  is the weighted [[mean|average]] of the squared differences of each possible value from the [[mean]]. ^c893cd
 $$
 \sigma^2_{X}=\sum (x_{i}-\mu_{X})^2
-p_{i}$$
+p_{i}
+$$
 take the square root to find [[standard deviation]] 
 $$
 \sigma_{X}=\sqrt{ \sum (x_{i}-\mu_{X})^2 p_{i}}
@@ -37,7 +38,7 @@ The [[variance]] of the sum and difference of two [[independent]] [[random varia
 
 > [!question]- Why not subtract the [[variance|variances]]?
 > Conceptually, because [[variance]] deals with spread, subtracting [[variance|variances]] should increase it. It is always positive because it is squared. Mathematically, 
->$$
+> $$
 \begin{align}
 \sigma_{X-Y}^2 = \sigma_{X+(-Y)}^2 &=\sigma^2_{X}+\sigma^2_{-Y} \\
 \sigma_{-Y}^2&=\sum (-Y_{i}-\mu_{Y})^2p_{i} \\
@@ -46,7 +47,7 @@ The [[variance]] of the sum and difference of two [[independent]] [[random varia
 \sigma_{-Y}^2&=\sigma_{Y}^2 \\
 \sigma_{X-Y}^2 &= \sigma^2_{X}+\sigma^2_{Y}
 \end{align}
-$$
+> $$
 
 
 
