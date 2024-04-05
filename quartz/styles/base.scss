@@ -7,6 +7,9 @@ html {
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
+
+  //changed scrollbar
+  scrollbar-width: thin;
 }
 
 body,
@@ -45,6 +48,12 @@ ul,
   fill: var(--darkgray);
   overflow-wrap: anywhere;
   hyphens: auto;
+
+   //added this to fix long latex clipping
+   overflow-x: auto;
+   overflow-y: clip;
+   scrollbar-width: thin;
+   scrollbar-color: #555 #2e2e2e;
 
 }
 
