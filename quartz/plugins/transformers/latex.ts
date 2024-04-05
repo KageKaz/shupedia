@@ -8,7 +8,7 @@ interface Options {
 }
 
 export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
-  const engine = opts?.renderEngine ?? "katex"
+  const engine = opts?.renderEngine ?? "mathjax"
   return {
     name: "Latex",
     markdownPlugins() {
