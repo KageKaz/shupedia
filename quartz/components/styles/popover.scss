@@ -19,6 +19,9 @@
   position: absolute;
   overflow: visible;
   padding: 1rem;
+  //changed scroll bar witdh
+  scrollbar-width: thin;
+
 
   & > .popover-inner {
     position: relative;
