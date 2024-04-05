@@ -45,7 +45,11 @@ ul,
   fill: var(--darkgray);
   overflow-wrap: anywhere;
   hyphens: auto;
+  scrollbar-width: thin;
+
+  //added this to fix long latex clipping
   overflow-x: auto;
+  overflow-y: clip;
 }
 
 .math {
