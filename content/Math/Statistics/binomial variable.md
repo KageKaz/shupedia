@@ -44,6 +44,9 @@ $$
 \text{Variance}=&p(1-p)
 \end{align}
 $$
+
+^1eac37
+
 ![[random variable#^60a6fa]]
 Thus, for each trial, we can add the [[variance]] for each trial. In other words, we multiply by the number of trials to find the total variance for the binomial [[distribution]].
 > [!definition]

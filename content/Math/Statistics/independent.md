@@ -1,6 +1,7 @@
 ---
 aliases:
   - independence
+  - independently
 ---
 > [!definition]
 > One variable/trial has no influence on the outcome of another

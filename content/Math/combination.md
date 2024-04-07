@@ -4,7 +4,7 @@ aliases:
 ---
 > [!definition]
 > $$
-_{n}C_{k}=\frac{\frac{n!}{(n-1)!}}{k!}=\frac{n!}{k!(n-k)!}=\binom{n}{k}
+>_{n}C_{k}=\frac{\frac{n!}{(n-1)!}}{k!}=\frac{n!}{k!(n-k)!}=\binom{n}{k}
 > $$
 
 order doesn't matter

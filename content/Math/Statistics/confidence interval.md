@@ -2,7 +2,7 @@
 aliases:
   - confidence intervals
 ---
- > [!definition] The confidence interval is the range of values which we are a certain [[confidence level]] certain that a [[statistic]] is within. This is equal to the [[statistic]] plus or minus the [[critical value]] times the [[standard error]].
+ > [!definition] The confidence interval is the range of values which we are a certain [[confidence level]] certain that a [[statistic]] is within. This is equal to the [[statistic]] plus or minus the [[critical value]] times the [[standard deviation]] or [[standard error]].
 
 > [!example] 
 > A 95% confidence interval from x to y means that we are 95% sure the interval captures the mean
@@ -13,13 +13,32 @@ aliases:
 > [!warning] 
 > The confidence interval refers to the long term success rate of the [[parameter]]. The confidence interval changes, but the parameter does not. Confidence intervals don't give us evidence that a parameter equals a specific value; they give us a range of plausible values it could equal. We shouldn't say the true [[parameter]] is 95% likely to be within the interval, we should say the interval is 95% likely to capture the true [[parameter]].
 
-# Proportions
 ## Necessary Conditions
-1. Random sampling
-2. Normal - [[large counts condition]]/at least 10 successes + failures in your sample
-3. Independence - [[10% rule|ten percent rule]] 
+similar to the conditions for [[significance test#^a9a273|significance tests]]
+1. Random sampling (eliminate bias)
+2. Normal 
+	1. needs to be normal because the [[critical value]] measures the number of [[standard deviation|standard deviations]] from the sample, so the [[distribution]] needs to be standardized (eg. follows [[empirical rule]]).
+	2. for proportions, [[large counts condition]]/at least 10 successes + failures in your sample
+	3. for [[mean|means]], $n\geq 30$ to satisfy the [[central limit theorem]], or there are no [[outlier|outliers]] or strong skew
+4. Independence - [[10% rule|ten percent rule]] 
+# Proportions
+$$
+\hat{p}\pm z^\star \sqrt{ \frac{\hat{p}(1-\hat{p})}{n} }
+$$
 ### Difference in Proportions
 The confidence interval for a difference in proportions is equal to the difference of the sample proportions $\pm$ the [[critical value]] times the standard deviation of the [[standard error]] of the [[sampling distribution]] of the difference of proportions.
-$$
-\sigma_{\hat{p}_{1}-\hat{p}_{2}}=\sqrt{ \frac{\hat{p}_{1}(1-\hat{p}_{1})}{n_{1}}+\frac{\hat{p}_{2}(1-\hat{p}_{2})}{n_{2}} }
-$$
+![[sampling distribution#^6da569]]
+
+# Means
+The [[standard deviation]] of the [[sampling distribution]] for a mean is 
+![[sampling distribution#^278894]]
+Thus to calculate our [[standard error]], we need to know what $\sigma$ is, the [[standard deviation]] of the [[population]].  Unfortunately, we usually don't know what $\sigma$ is. We can try to substitute $S_{x}$, or the [[standard deviation]] of the sample in, but this approximation tends to underestimate the true [[margin of error]].  Thus, instead of using $z^*$, we use $t^*$ for our [[critical value]].   
+
+# Slope ([[regression line]])
+
+^cfc264
+The [[regression line#^bccf14|conditions]] are a little different 
+
+We don't know what $\sigma_{b}$ the [[standard deviation]] of the [[sampling distribution]] of the slope of the [[regression line]] is, so we use [[standard error]] of $b$ to approximate. Thus, we use $t^*$.
+
+

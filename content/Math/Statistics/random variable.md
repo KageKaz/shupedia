@@ -58,4 +58,4 @@ Thus, the [[mean]] gets larger/smaller by how much you add.
 [[standard deviation]] does not change because you don't change the shape/[[variability|variation]] of the [[distribution]].
 #### multiplication/division
 The [[distribution]] gets stretched/compressed, changing both [[mean]] and [[standard deviation]].
-Both [[mean]] and [[standard deviation]] get multiplied/divided by what you multiplied/divided the [[distribution]] by.
+Both [[mean]] and [[standard deviation]] get multiplied/divided by what you multiplied/divided the [[distribution]] by. ^ba419b
