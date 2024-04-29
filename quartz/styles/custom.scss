@@ -4,11 +4,3 @@
 html {
     scrollbar-color: #555 #2e2e2e;
   }
-.math {
-     //added this to fix long latex clipping
-     overflow-x: auto;
-     overflow-y: clip;
-     scrollbar-width: thin;
-     scrollbar-color: #555 #2e2e2e;
-  
-  }
