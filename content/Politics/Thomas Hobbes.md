@@ -1,0 +1,1 @@
+Life in the state of nature (before government) is "solitary, poor, nasty, brutish, and short"

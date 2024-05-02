@@ -2,7 +2,7 @@
 aliases:
   - congress
 ---
-The [[US Congress]] forms the [[Legislative Branch]] of the US Government. They have the sole power to make laws.
+The [[US Congress]] forms the [[legislative branch]] of the US Government. They have the sole power to make laws.
 [[Bicameral Legislature]] - power is divided between two houses, the [[Senate]] and the [[House of Representatives]].
 
 Article 1, Section 8 of the [[US Constitution]] states the [[enumerated powers]] of the [[US Congress]]. It also contains the [[necessary and proper clause]].

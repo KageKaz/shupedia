@@ -2,6 +2,7 @@
 aliases:
   - impeachments
   - impeached
+  - impeach
 ---
 [[president|presidents]] who have been impeached - none have been removed from office
 * [[Andrew Johnson]] - for opposing [[US Congress|congress]]' [[reconstruction]] policies.

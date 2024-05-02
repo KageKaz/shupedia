@@ -1,0 +1,1 @@
+![[US Constitution#^03ea51]]Federal laws have greater authority than state laws

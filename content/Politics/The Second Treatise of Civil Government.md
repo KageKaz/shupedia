@@ -1,0 +1,1 @@
+People are endowed by virtue of being human with the [[natural rights]] of life, liberty, and property. 
