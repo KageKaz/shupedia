@@ -113,7 +113,7 @@ Things that Jane has been longing for don't seem all that once she gets them.
 At Gateshead, Jane has a dim view of poverty.
 > Poverty looks grim to grown people; still more so to children: they have not much idea of industrious, working, respectable poverty; they think of the word only as connected with ragged clothes, scanty food, fireless grates, rude manners, and debasing vices: poverty for me was synonymous with degradation...I was not heroic enough to purchase liberty at the price of caste.
 
-She changes her mind at lowood
+She changes her mind at Lowood
 > “Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.”
 > I would not now have exchanged Lowood with all its privations for Gateshead and its daily luxuries.
 

@@ -179,5 +179,3 @@ Hamlet and Laertes, who kill each other, share the exact same plight
 ## [[justice]]
 ### Who's fault is it? Everyone? No one?
 > the king, the king’s to blame...He is justly served; It is a poison temper’d by himself. - Laertes
-
-> 
