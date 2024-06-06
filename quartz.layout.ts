@@ -27,7 +27,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     //Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
-    Component.DesktopOnly(Component.RecentNotes())
+    Component.DesktopOnly(Component.RecentNotes({
+      title: "Recently Updated",
+      limit: 4,
+     }))
   ],
   right: [
     Component.Graph({
@@ -42,7 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
         fontSize: 0.5, // what size should the node labels be?
         opacityScale: 2.2, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
-        showTags: true, // whether to show tags in the graph
+        showTags: false, // whether to show tags in the graph
       },
       globalGraph: {
         drag: true,
