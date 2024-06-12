@@ -66,7 +66,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Backlinks()),
     Component.MobileOnly(Component.RecentNotes({
       title: "Recently Updated",
-      limit: 4,
      }))
   ],
 }
