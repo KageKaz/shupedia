@@ -1,3 +1,6 @@
+---
+date: 2024-02-14
+---
 When we create a stress on a reaction, it will try to relieve it.
 # Concentration
 If we increase concentration of reactants (at constant [[temperature]]), the excess of reactants will create a bunch of products until [[equilibrium]].

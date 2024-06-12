@@ -1,6 +1,7 @@
 ---
 aliases:
   - direct democracy
+date: 2024-04-09
 ---
 > [!definition]
 > Emphasizes broad participation in politics and civil society

@@ -1,3 +1,6 @@
+---
+date: 2024-01-18
+---
 Funding
 + [[power of the purse]] - the ability to pass a budget and borrow money
 * [[commerce clause]] - regulate commerce with other nations, between states, and with [[Native American|Native Americans]] ^d08db8

@@ -1,6 +1,7 @@
 ---
 aliases:
   - elitism
+date: 2024-04-09
 ---
 > [!definition]
 > emphasizes limited participation by a few, well-educated and informed statespeople who are qualified to direct the nation through law making on behalf of the people

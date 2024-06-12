@@ -1,3 +1,6 @@
+---
+date: 2024-02-12
+---
 $r$ is the distance from a long straight wire carrying [[current]] $I$
 $$
 B=\frac{\mu_{0}I}{2\pi r}

@@ -1,6 +1,7 @@
 ---
 aliases:
   - standard deviations
+date: 2024-01-23
 ---
 > [!definition]
 > [[standard deviation]] measures how far a [[random variable]] typically varies from the [[mean]]

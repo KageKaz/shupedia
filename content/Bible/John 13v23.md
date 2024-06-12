@@ -1,3 +1,6 @@
+---
+date: 2024-01-21
+---
 > [!bible]+ [John 13:23 - ESV](https://bolls.life/ESV/43/13/) [[John]]
 >  <sup> 23 </sup>One of his disciples, whom Jesus loved, was reclining at table at Jesus' side,
 

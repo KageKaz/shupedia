@@ -1,3 +1,6 @@
+---
+date: 2024-04-23
+---
 # facts
 Alfonzo Lopez carried a gun and bullets to his school.
 He was arrested and sent to jail because a state law prohibited bringing a gun to school.

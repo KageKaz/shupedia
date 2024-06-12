@@ -1,3 +1,6 @@
+---
+date: 2024-01-23
+---
 > [!definition] going from one state of matter to another
 
 As you add thermal [[energy]], either the [[temperature]] increases or [[phase change]] occurs.

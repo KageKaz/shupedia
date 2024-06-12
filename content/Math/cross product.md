@@ -1,3 +1,6 @@
+---
+date: 2024-02-14
+---
 > [!info] 
 > $\vec{a}\times \vec{b}=\mid \vec{a}\mid\mid \vec{b}\mid \sin \theta\cdot \hat{n}$
 

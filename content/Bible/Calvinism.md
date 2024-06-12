@@ -1,4 +1,5 @@
 ---
 aliases:
   - Calvinist
+date: 2024-05-02
 ---

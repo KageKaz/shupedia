@@ -1,6 +1,7 @@
 ---
 aliases:
   - waves
+date: 2024-04-22
 ---
 > [!definition]
 > a wave is an oscillation from [[equilibrium]] 

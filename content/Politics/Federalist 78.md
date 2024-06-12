@@ -1,3 +1,6 @@
+---
+date: 2024-03-14
+---
 One of the [[Federalist Papers]]
 ## How long should judges be appointed?
 Lifetime appointments by [[president]] during good behavior.

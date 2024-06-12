@@ -1,3 +1,6 @@
+---
+date: 2024-04-09
+---
 > [!question]
 > How will the new [[US Constitution|constitution]] protect the liberty of citizens against the tyranny of the majority?
 

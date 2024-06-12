@@ -1,3 +1,6 @@
+---
+date: 2024-01-21
+---
 [[Søren Kierkegaard|Kierkegaard]] presents a hardline choice between the life of the ethical and the aesthetic. 
 * If you try to split the difference, you are living an aesthetic life because you can't not having the pleasure of having both.  
 

@@ -1,3 +1,6 @@
+---
+date: 2024-03-31
+---
 > [!definition] 
 > $P(A|B)$ means the [[probability]] of A happening given that B has occurred
 

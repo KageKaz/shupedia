@@ -1,3 +1,6 @@
+---
+date: 2024-04-04
+---
 > [!definition]
 > The [[probability]] of getting our sample (or one more extreme) assuming the [[null hypothesis]] is true.
 

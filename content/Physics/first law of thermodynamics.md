@@ -1,6 +1,7 @@
 ---
 aliases:
   - 1st law of thermodynamics
+date: 2024-01-23
 ---
 $$
 \Delta E=q+w

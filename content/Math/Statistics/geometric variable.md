@@ -1,3 +1,6 @@
+---
+date: 2024-04-03
+---
 + trial outcomes are either successes or failures
 + trials are [[independent]] 
 + same [[probability]] on each trial

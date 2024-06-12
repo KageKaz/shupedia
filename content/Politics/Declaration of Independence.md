@@ -1,3 +1,6 @@
+---
+date: 2024-04-09
+---
 Outlines the reasons for the break between the [[American colonies]] and the [[British Empire]]. 
 Written by [[Thomas Jefferson]] 
 

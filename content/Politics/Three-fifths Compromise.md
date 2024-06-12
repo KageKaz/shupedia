@@ -1,3 +1,6 @@
+---
+date: 2024-04-11
+---
 > [!question]
 > How should slaves count for state representation in the [[House of Representatives]]? 
 

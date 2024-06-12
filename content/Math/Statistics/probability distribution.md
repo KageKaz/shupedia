@@ -1,3 +1,6 @@
+---
+date: 2024-04-01
+---
 > [!definition] 
 > A probability distribution is the [[distribution]] of the [[probability]] of each possible outcome of a trial.
 

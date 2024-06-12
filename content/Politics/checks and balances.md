@@ -1,3 +1,6 @@
+---
+date: 2024-04-15
+---
 each branch has the power to check the others
 slow system, causes [[gridlock]]
 

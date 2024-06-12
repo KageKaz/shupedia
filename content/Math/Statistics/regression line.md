@@ -3,6 +3,7 @@ aliases:
   - line-of-best-fit
   - best-fit-line
   - least-squares regression line
+date: 2024-02-24
 ---
 # Linear
 > [!info] 

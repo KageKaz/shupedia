@@ -1,6 +1,7 @@
 ---
 aliases:
   - r
+date: 2024-02-23
 ---
 > [!definition] 
 >  $r=\frac{1}{n-1}\sum\left( \frac{x_{i}-\bar{x}}{s_{x}} \right)\left( \frac{y_{i-\bar{y}}}{s^y} \right)$

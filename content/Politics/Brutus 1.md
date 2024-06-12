@@ -1,3 +1,6 @@
+---
+date: 2024-04-09
+---
 Opposes [[Federalist 10]] 
 
 First of the [[Anti-Federalist Papers]] 

@@ -1,3 +1,6 @@
+---
+date: 2024-03-14
+---
 ![[US Constitution#^bbe33c]]
 The Judicial Branch consists of a three tiered hierarchy, created by the [[Judiciary Act of 1789]]
 + [[Supreme Court]]

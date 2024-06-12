@@ -1,6 +1,7 @@
 ---
 aliases:
   - Great Compromise
+date: 2024-04-11
 ---
 > [!question]
 > How would the people be represented under the new [[US Constitution|constitution]]? How can we decide how many representatives each state gets?

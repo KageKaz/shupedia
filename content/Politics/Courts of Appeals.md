@@ -1,6 +1,7 @@
 ---
 aliases:
   - appellate court
+date: 2024-03-14
 ---
 12 regions represented by an appellate court
 These courts do not retry the facts of the case, they just check that the law was applied correctly.

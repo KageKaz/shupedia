@@ -1,6 +1,7 @@
 ---
 aliases:
   - Hamlet
+date: 2024-04-30
 ---
 > If aught of woe or wonder, cease your search. - Horatio
 

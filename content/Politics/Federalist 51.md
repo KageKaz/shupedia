@@ -1,3 +1,6 @@
+---
+date: 2024-04-22
+---
 Humans need government to protect the [[natural rights]] of the people.
 > But what is government itself, but the greatest of all reflections on human nature? If men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controls on government would be necessary. 
 

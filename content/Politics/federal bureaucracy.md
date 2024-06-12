@@ -1,6 +1,7 @@
 ---
 aliases:
   - bureaucracy
+date: 2024-03-14
 ---
 > [!info] The millions of people who are employed to carry out the responsibilities of the federal government
 

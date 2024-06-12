@@ -1,6 +1,7 @@
 ---
 aliases:
   - separation of powers
+date: 2024-04-09
 ---
 no one branch of government holds all the authority, power is seperated.
 However, even in their own spheres of power, branches do not have total authority because of [[checks and balances]]

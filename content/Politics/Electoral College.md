@@ -1,3 +1,6 @@
+---
+date: 2024-04-11
+---
 
  > [!question]
   >How should the [[president]] be elected? By the people, state [[legislative branch|legislatures]], or [[US Congress|congress]]?

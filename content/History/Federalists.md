@@ -1,3 +1,6 @@
+---
+date: 2024-04-09
+---
 Argued for more centralized power in the federal government. In other words, they were the ones that supported ratifying the [[US Constitution|constitution]].
 Some of them wrote the [[Federalist Papers]].
 # Members

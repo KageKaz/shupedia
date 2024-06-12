@@ -1,3 +1,6 @@
+---
+date: 2024-02-14
+---
 > [!definition] 
 > $\vec{a}\cdot \vec{b}=\vec{b}\cdot \vec{a}=\mid\vec{a}\mid\mid\vec{b}\mid\cos \theta$
 

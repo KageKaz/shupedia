@@ -1,6 +1,7 @@
 ---
 aliases:
   - t-tests
+date: 2024-04-06
 ---
 A z-score is![[z-score#^36a915]]
 when dealing with means, 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - sampling distributions
+date: 2024-01-22
 ---
 Suppose we have a [[population]] that we want to find a [[parameter]] of.  We can take a random sample of the [[parameter]]  and get a [[statistic]] from that and use that to figure out what the [[parameter]] is. But the [[statistic]] doesn't necessarily always equal the [[parameter]]. 
 

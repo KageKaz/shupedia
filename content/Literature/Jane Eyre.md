@@ -1,3 +1,6 @@
+---
+date: 2024-04-29
+---
 Dear reader, this is an article about [[Charlotte Brontë]]'s Jane Eyre
 
 > God is a friend to the poor orphan child.

@@ -1,6 +1,7 @@
 ---
 aliases:
   - calorimeter
+date: 2024-01-23
 ---
 In a [[calorimetry|calorimeter]], the heat lost by one thing is gained by the other. 
 

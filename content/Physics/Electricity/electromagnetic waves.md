@@ -1,3 +1,6 @@
+---
+date: 2024-04-22
+---
 electromagnetic waves all travel at the [[speed of light]] in a vacuum. What separates the different electromagnetic waves is their wavelength and frequency. 
 $c=\text{wavelength }(\lambda)\!\cdot\!\text{frequency }(\nu)$
 

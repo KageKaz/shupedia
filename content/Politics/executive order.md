@@ -1,3 +1,6 @@
+---
+date: 2024-01-30
+---
 > [!definition]  
 > A directive from the [[president]] that has the force of a law but is not a law.
 

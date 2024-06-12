@@ -1,6 +1,7 @@
 ---
 aliases:
   - reaction quotients
+date: 2024-02-14
 ---
 If $Q<K$, we have fewer products than we would at [[equilibrium]]. Thus, the forward reaction is favored and the excess of reactants will turn into products. 
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - binomial variables
+date: 2024-04-02
 ---
 * made up of a finite and fixed number of [[independent]] trials
 	* we can use the [[10% rule|ten percent rule]] to establish [[independent|independence]]

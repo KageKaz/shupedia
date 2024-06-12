@@ -1,3 +1,6 @@
+---
+date: 2024-01-18
+---
 Each state gets two votes/representatives .
 	Senators must be 30 years old, older than the members of the [[House of Representatives]].
 	Senators serve for six years. Every two years, 1/3 of the [[Senate]] is replaced in the [[midterm election]].

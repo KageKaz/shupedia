@@ -1,2 +1,5 @@
+---
+date: 2024-01-18
+---
 Remains from session to session, dealing with issues that are always present.
 An example would be the [[Appropriations Committee]] in the [[Senate]] or the [[Ways and Means Committee]] or the [[house rules committee]] in the [[House of Representatives]].

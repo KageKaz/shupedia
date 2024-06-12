@@ -1,3 +1,6 @@
+---
+date: 2024-02-14
+---
 # Chemistry
 for $aA+bB\rightleftharpoons cC+dD$
 $$K_{c}=\frac{[C]^c[D]^d}{[A]^a[B]^b}$$

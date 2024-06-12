@@ -3,6 +3,7 @@ aliases:
   - constitutional
   - constitution
   - constitutionality
+date: 2024-01-30
 ---
 # Historical Context
 Created due to the failures of the [[Articles of Confederation]], thus it gives the central government much more power.

@@ -1,6 +1,7 @@
 ---
 aliases:
   - capacitors
+date: 2024-02-06
 ---
 > [!definition] 
 > Capacitors store charge. They are usually built using two plates that aren't touching. The [[capacitance]] of a capacitor tells you how good it is at storing charge.

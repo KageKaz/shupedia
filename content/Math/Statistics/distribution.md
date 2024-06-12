@@ -1,6 +1,7 @@
 ---
 aliases:
   - distributions
+date: 2024-02-21
 ---
 ## Shape
 * symmetric

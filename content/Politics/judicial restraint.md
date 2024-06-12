@@ -1,3 +1,6 @@
+---
+date: 2024-03-14
+---
 Judges are not appointed to make policy, thus laws should only be struck down if they violate the [[US Constitution|constitution]]. 
 Stare Decisis
 

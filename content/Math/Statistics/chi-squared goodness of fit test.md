@@ -1,3 +1,6 @@
+---
+date: 2024-04-06
+---
 We use this to test to figure out how well multiple categories of data fit their expected outcomes.
 > [!example]
 > if a,b,c,d each have 25% chance to occur on a test

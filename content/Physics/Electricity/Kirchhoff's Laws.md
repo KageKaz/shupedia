@@ -1,3 +1,6 @@
+---
+date: 2024-02-06
+---
 # [[Current]] law
 > [!info] The sum of the [[current]] flowing into a node is the same as the sum of the [[current]] flowing out of the node.
 # [[Voltage]] law

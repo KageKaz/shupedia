@@ -1,6 +1,7 @@
 ---
 aliases:
   - pluralism
+date: 2024-04-09
 ---
 > [!definition]
 > group-based activism by non-governmental [[interest groups]] which all work to impact political decision making makes it so no one interest can become dominant, ensuring compromise

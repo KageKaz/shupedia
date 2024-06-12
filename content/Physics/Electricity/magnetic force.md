@@ -1,3 +1,6 @@
+---
+date: 2024-02-12
+---
 caused by the [[electromagnetic force]], one of the [[four fundamental forces]] 
 using [[cross product]], 
 $$

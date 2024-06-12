@@ -1,3 +1,6 @@
+---
+date: 2024-01-30
+---
 > [!definition] 
 > Agreement between [[president]] and another head of state.
 

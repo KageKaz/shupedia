@@ -1,3 +1,6 @@
+---
+date: 2024-01-30
+---
 > [!bible]+ [1 Samuel 1:12-13 - ESV](https://bolls.life/ESV/9/1/) [[1 Samuel]]
 >  <sup> 12 </sup>As she continued praying before the LORD, Eli observed her mouth. <sup> 13 </sup>Hannah was speaking in her heart; only her lips moved, and her voice was not heard. Therefore Eli took her to be a drunken woman.
 

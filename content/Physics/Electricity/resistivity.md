@@ -1,3 +1,6 @@
+---
+date: 2024-01-17
+---
 [[resistivity]] is a measure of the [[resistance]] of a [[material]].
 [[metals]] have lower [[resistivity]], while [[non-metals]] offer greater [[resistivity]] .
 [[resistivity]] is inversely proportional to [[conductivity]]. $\rho=\dfrac{1}{\sigma}$

@@ -1,3 +1,6 @@
+---
+date: 2024-02-24
+---
 > [!info] give different treatments to the same person to mitigate [[variability]] from subject to subject.
 
 > [!example] 

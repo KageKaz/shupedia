@@ -2,6 +2,7 @@
 aliases:
   - independence
   - independently
+date: 2024-03-30
 ---
 > [!definition]
 > One variable/trial has no influence on the outcome of another

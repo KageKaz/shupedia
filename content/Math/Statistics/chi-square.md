@@ -1,6 +1,7 @@
 ---
 aliases:
   - chi-squared
+date: 2024-04-06
 ---
 > [!definition]
 > $$

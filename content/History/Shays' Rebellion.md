@@ -1,3 +1,6 @@
+---
+date: 2024-04-09
+---
 Farmers had gone into debt during the war, and could not pay off the debt due to inflation and [[tax|taxes]].
 Farmers petitioned for relief, but the government refused
 This angered the farmers.

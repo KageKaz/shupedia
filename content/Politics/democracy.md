@@ -1,3 +1,6 @@
+---
+date: 2024-04-09
+---
 # Types of democracy
 + [[participatory democracy]]
 + [[elite democracy]]

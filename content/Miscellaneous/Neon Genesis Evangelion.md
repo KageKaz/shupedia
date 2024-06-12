@@ -1,3 +1,6 @@
+---
+date: 2024-03-18
+---
 # Important Quotes
 > If you avoid other people, you'll never be betrayed. You won't hurt each other, either. But you'll also never stop feeling lonely. Humans can't permanently be free of loneliness. Because man is ultimately alone. But humans can go on living because they're able to forget. - Nagisa
 

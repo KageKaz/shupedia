@@ -1,6 +1,7 @@
 ---
 aliases:
   - SCOTUS
+date: 2024-03-14
 ---
 Only court officially established by [[US Constitution]] 
 * Established in Article III

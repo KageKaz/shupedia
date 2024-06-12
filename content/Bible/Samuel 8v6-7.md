@@ -1,3 +1,6 @@
+---
+date: 2024-02-04
+---
 > [!bible]+ [1 Samuel 8:6-7 - ESV](https://bolls.life/ESV/9/8/) [[1 Samuel]]
 >  <sup> 6 </sup>But the thing displeased Samuel when they said, “Give us a king to judge us.” And Samuel prayed to the LORD. <sup> 7 </sup>And the LORD said to Samuel, “Obey the voice of the people in all that they say to you, for they have not rejected you, but they have rejected me from being king over them.
 

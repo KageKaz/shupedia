@@ -3,6 +3,7 @@ aliases:
   - impeachments
   - impeached
   - impeach
+date: 2024-01-30
 ---
 [[president|presidents]] who have been impeached - none have been removed from office
 * [[Andrew Johnson]] - for opposing [[US Congress|congress]]' [[reconstruction]] policies.

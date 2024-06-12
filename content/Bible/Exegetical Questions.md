@@ -1,3 +1,6 @@
+---
+date: 2023-12-25
+---
 > [!info] Perhaps [[God]] makes the interpretation of some passages unclear so that we will depend on him for interpretation and not our own intellect. 
 
 [[Matthew 16v28]]

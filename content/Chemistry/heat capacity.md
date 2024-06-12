@@ -1,6 +1,7 @@
 ---
 aliases:
   - specific heat
+date: 2024-01-23
 ---
 > [!definition] 
 > The [[heat capacity]] of an object is the amount of heat necessary to raise the [[temperature]] of an object by one degree (c).

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kierkegaard
+date: 2024-01-21
 ---
 # Christian [[existentialism]]
 One has to to choose between a life of [[faith]] and [[reason]]. They are mutually excusive. 

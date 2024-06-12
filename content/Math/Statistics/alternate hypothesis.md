@@ -1,3 +1,6 @@
+---
+date: 2024-04-04
+---
 > [!definition]
 > The alternative hypothesis is the assumption that there is a change, difference, or relationship between two groups/variables.
 

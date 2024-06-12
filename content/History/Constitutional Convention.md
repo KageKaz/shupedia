@@ -1,3 +1,6 @@
+---
+date: 2024-04-11
+---
 Called in 1787 to fix the weaknesses of the [[Articles of Confederation]], but quickly become an effort to draft an entirely new constitution.
 
 ![[Articles of Confederation#^7adb46]]

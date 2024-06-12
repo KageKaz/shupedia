@@ -1,3 +1,6 @@
+---
+date: 2024-03-14
+---
 ## Facts
 Federalist [[John Adams]] loses to democratic republican [[Thomas Jefferson]]
 Adams tried to appoint a bunch of judges before he left.

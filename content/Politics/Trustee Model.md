@@ -1,3 +1,6 @@
+---
+date: 2024-01-18
+---
 The representative has been entrusted with the people's faith, so must vote according to his own beliefs.
 Can vote against the people if he feels like its the right thing to do.
 > [!example] 

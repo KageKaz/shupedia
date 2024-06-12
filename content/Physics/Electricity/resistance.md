@@ -1,6 +1,7 @@
 ---
 aliases:
   - resistor
+date: 2024-01-17
 ---
 ### [[resistance]]  is how much [[current]] is impeded. 
 $I=\dfrac{V}{R}$

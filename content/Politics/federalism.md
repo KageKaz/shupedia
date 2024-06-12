@@ -1,3 +1,6 @@
+---
+date: 2024-04-22
+---
 > [!definition]
 > The allocation of power between federal and state governments
 

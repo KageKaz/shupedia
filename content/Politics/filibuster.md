@@ -1,3 +1,6 @@
+---
+date: 2024-01-18
+---
 Because members in the [[Senate]] have the power to speak as long as they want, unless 60 senators vote for [[cloture]], senators use never-ending debate to block a bill from even being voted on, thus, "leaving no fingerprints".
 
 Longest [[filibuster]] was over 24 hours. This kind of filibuster docent really happen anymore, because legislators can simply threaten a [[filibuster]] for the same result.

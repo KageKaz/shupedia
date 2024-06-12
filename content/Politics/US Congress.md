@@ -1,6 +1,7 @@
 ---
 aliases:
   - congress
+date: 2024-01-18
 ---
 The [[US Congress]] forms the [[legislative branch]] of the US Government. They have the sole power to make laws.
 [[Bicameral Legislature]] - power is divided between two houses, the [[Senate]] and the [[House of Representatives]].

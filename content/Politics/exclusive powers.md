@@ -1,3 +1,6 @@
+---
+date: 2024-04-22
+---
 > [!definition]
 > Powers delegated by the constitution to the federal government alone
 

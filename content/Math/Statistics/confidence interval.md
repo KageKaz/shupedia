@@ -1,6 +1,7 @@
 ---
 aliases:
   - confidence intervals
+date: 2024-02-02
 ---
  > [!definition] The confidence interval is the range of values which we are a certain [[confidence level]] certain that a [[statistic]] is within. This is equal to the [[statistic]] plus or minus the [[critical value]] times the [[standard deviation]] or [[standard error]].
 

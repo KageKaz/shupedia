@@ -1,6 +1,7 @@
 ---
 aliases:
   - enthalpies
+date: 2024-01-23
 ---
 > [!definition] Enthalpy is defined as $H=E+pV$, or equal to internal [[energy]] plus pressure times volume.
 

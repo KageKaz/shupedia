@@ -1,6 +1,7 @@
 ---
 aliases:
   - significance tests
+date: 2024-04-06
 ---
 # Conditions
 

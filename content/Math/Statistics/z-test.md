@@ -1,6 +1,7 @@
 ---
 aliases:
   - z-tests
+date: 2024-04-06
 ---
 A z-score is![[z-score#^36a915]]
 Thus, for a [[z-test]], we look at how many [[standard deviation|standard deviations]] our sample is from our [[mean]], and calculate the [[probability]] of that happening assuming our [[null hypothesis]] is true to find our [[p-value]]. 

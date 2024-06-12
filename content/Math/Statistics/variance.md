@@ -1,6 +1,7 @@
 ---
 aliases:
   - variances
+date: 2024-01-23
 ---
 > [!definition] 
 > variance is the typical squared distance a distribution has from the mean

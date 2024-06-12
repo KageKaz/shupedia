@@ -1,6 +1,7 @@
 ---
 aliases:
   - soluble
+date: 2024-02-14
 ---
 > [!definition] 
 > The amount of solid that dissolves to form a saturated solution

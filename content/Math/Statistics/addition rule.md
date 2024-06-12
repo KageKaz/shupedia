@@ -1,3 +1,6 @@
+---
+date: 2024-03-30
+---
 > [!definition]
 > $$
 P(A\,\text{or}\, B)=P(A)+P(B)-P(A\,\text{and}\,B)

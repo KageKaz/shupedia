@@ -1,3 +1,6 @@
+---
+date: 2024-03-14
+---
 > [!info] When a court tries to establish policy and in its deliberative work, considers the broad effects of a decision on society
 
 examples

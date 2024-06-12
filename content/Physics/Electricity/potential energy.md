@@ -1,3 +1,6 @@
+---
+date: 2024-02-06
+---
 # Electrical Potential Energy
 ### In a field
 In an electrical field, electrical potential energy is equal to the charge of the particle times the voltage.

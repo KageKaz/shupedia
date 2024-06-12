@@ -1,3 +1,6 @@
+---
+date: 2024-01-18
+---
 Each state is represented by population. Each state gets at least representative.
 
 Federal law caps the number of representatives at 435. 

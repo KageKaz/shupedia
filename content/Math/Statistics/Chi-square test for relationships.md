@@ -2,6 +2,7 @@
 aliases:
   - Chi-squared test for homogeneity
   - Chi-squared test for independence
+date: 2024-04-23
 ---
 ![[chi-square#^bf414d]] 
 # Conditions

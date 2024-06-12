@@ -1,6 +1,7 @@
 ---
 aliases:
   - bond enthalpies
+date: 2024-01-23
 ---
 > [!definition] [[bond enthalpy]] is $\Delta H$ for breaking one [[bond]] 
 

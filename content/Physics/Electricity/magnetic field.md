@@ -1,6 +1,7 @@
 ---
 aliases:
   - magnetic fields
+date: 2024-02-12
 ---
 > [!info] A magnetic field is a picture that we use to describe how the [[magnetic force]] is distributed in the space around and within something magnetic.
 

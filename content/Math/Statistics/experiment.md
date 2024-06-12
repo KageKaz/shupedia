@@ -1,3 +1,6 @@
+---
+date: 2024-02-24
+---
 > [!info] Actively put subjects into control/treatment groups
 
 usually, the control group is given a placebo to help mitigate the [[placebo effect]]

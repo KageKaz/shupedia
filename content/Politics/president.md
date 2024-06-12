@@ -3,6 +3,7 @@ aliases:
   - presidential
   - presidents
   - president's
+date: 2024-01-30
 ---
 
 each president has certain policies that he campaigns on, forming an informal contract with his electors. This forms his [[policy agenda]].

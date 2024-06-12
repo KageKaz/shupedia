@@ -1,6 +1,7 @@
 ---
 aliases:
   - study
+date: 2024-02-24
 ---
 > [!info] collect data, see if you can make insights
 

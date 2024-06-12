@@ -1,6 +1,7 @@
 ---
 aliases:
   - probabilities
+date: 2024-03-30
 ---
 > [!info] 
 > $$\frac{\text{number of possibilities that meet conditions}}{\text{nuber of equally likely possibilities}}$$

@@ -1,3 +1,6 @@
+---
+date: 2024-02-02
+---
 The confidence level is a percentage that tells you that if you create many [[confidence interval|confidence intervals]], the confidence level percent of them will have the true [[parameter]].
 > [!warning] 
 > The confidence level does not tell you the percentage that a specific [[confidence interval]] has the true [[parameter]]. This is because the [[confidence interval]] either has the [[parameter]] or it doesn't, both are fixed.

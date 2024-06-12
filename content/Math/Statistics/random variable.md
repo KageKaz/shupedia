@@ -1,6 +1,7 @@
 ---
 aliases:
   - random variables
+date: 2024-04-01
 ---
 > [!definition]
 > A random variable represents the outcome of a random process

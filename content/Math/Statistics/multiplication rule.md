@@ -1,3 +1,6 @@
+---
+date: 2024-03-31
+---
 > [!definition] 
 > $$
 > P(A\,\text{and}\,B)=P(A)\cdot P(B|A)
