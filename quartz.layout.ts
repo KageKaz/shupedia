@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Recently Updated",
-      limit: 4,
+      limit: 8,
       
      }))
   ],
@@ -66,6 +66,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Backlinks()),
     Component.MobileOnly(Component.RecentNotes({
       title: "Recently Updated",
+      limit: 8,
      }))
   ],
 }
