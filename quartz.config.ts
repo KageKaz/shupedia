@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "https://shupedia.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
