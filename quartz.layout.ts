@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      //add links here in the footer
-    },
+      RSS: "https://shupedia.pages.dev/index.xml"    },
   }),
 }
 
