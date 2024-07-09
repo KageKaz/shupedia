@@ -1,0 +1,5 @@
+---
+aliases:
+  - functions
+date: 2024-07-08
+---

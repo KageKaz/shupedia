@@ -1,5 +1,5 @@
 ---
-date: 2024-04-22
+date: 2024-07-08
 ---
 > [!definition]
 > gives money in a broad category and states determine how it is spent in that category

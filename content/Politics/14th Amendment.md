@@ -1,5 +1,5 @@
 ---
-date: 2024-04-23
+date: 2024-07-08
 ---
 Passed during [[reconstruction]]. After the [[13th Amendment]], southern states found new ways to keep society segregated. Even though they were now protected from the federal government, the [[Bill of Rights]] only protected them from the federal government. 
 

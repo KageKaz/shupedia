@@ -1,0 +1,5 @@
+---
+aliases:
+  - degrees
+date: 2024-07-09
+---

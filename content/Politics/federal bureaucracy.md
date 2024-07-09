@@ -1,10 +1,12 @@
 ---
 aliases:
   - bureaucracy
-date: 2024-03-14
+  - imperial bureaucracy
+date: 2024-07-05
 ---
-> [!info] The millions of people who are employed to carry out the responsibilities of the federal government
+> [!info] A governmental entity that carries out the will of the governemnt.
 
+# [[United States]]
 Falls under the executive branch
 ### Structure
 Cabinet Departments
@@ -51,3 +53,9 @@ Congressional Oversight
 + [[executive order]] 
 [[judicial branch]] 
 + [[judicial review]] 
+
+# [[China]] 
+### Imperial bureaucracy
+In the [[Han Dynasty]], [[nepotism]] was prevalent.
+In the [[Song Dynasty]], eligible men had to pass an exam to join the bureaucracy. It was a [[meritocracy]].
+This helped make the bureaucracy more efficient.
