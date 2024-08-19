@@ -1,10 +1,11 @@
 ---
-date: 2024-07-08
+date: 2024-07-09
 ---
 > [!definition]
 > $$
-> \sin \theta=\frac{\text{opposite}}{\text{hypotenuse}}=\cos\left( \frac{\pi}{2}-\theta \right)=\frac{1}{\csc \theta}
+> \sin \theta=\frac{\text{opposite}}{\text{hypotenuse}}=\frac{1}{\csc \theta}
 > $$
 
-^867352
-
+![[Pasted image 20240709114214.png]]
+[[domain]] is all [[real number]]
+[[range]] is $[-1,1]$

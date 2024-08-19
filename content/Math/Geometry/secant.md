@@ -1,8 +1,8 @@
 ---
-date: 2024-07-08
+date: 2024-07-09
 ---
 > [!definition]
 > $$
-> \sec \theta=\frac{\text{hypotenuse}}{\text{adjacent}}=\csc\left( \frac{\pi}{2}-\theta \right)=\frac{1}{\cos \theta}
+> \sec \theta=\frac{\text{hypotenuse}}{\text{adjacent}}=\frac{1}{\cos \theta}
 > $$
 

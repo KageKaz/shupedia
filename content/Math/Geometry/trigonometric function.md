@@ -1,7 +1,7 @@
 ---
 aliases:
   - trigonometric functions
-date: 2024-07-08
+date: 2024-07-09
 ---
 > [!definition]
 > These [[function|functions]] relate the [[angle]] of [[triangle|triangles]] to their side lengths.
@@ -14,7 +14,8 @@ date: 2024-07-08
 + [[cotangent]]
 + [[secant]]
 + [[cosecant]]
-## [[inverse function|inverse functions]] 
+## [[inverse function|inverse functions]]
+Because trigonometric functions aren't invertible ($\sin(0)=\sin(\pi)$), we need to limit their [[range]] to make them invertible.
 + [[arcsine]]
 + [[arccosine]]
 + [[arctangent]]
