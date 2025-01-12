@@ -2,7 +2,7 @@
 title: Welcome!
 date: 2024-02-06
 ---
-Welcome to my personal encyclopedia! Here are some of the notes I've taken of the things I've been learning. I hope you find something useful here, but I can make no guarantees on the accuracy of any information. This is all a work in progress. 
+Welcome to my personal encyclopedia! Here are some of the notes I've taken of the things I've been learning. I hope you find something useful here, but I can make no guarantees on the accuracy of any information. Almost all the information here I took either directly or indirectly from another source, I claim none of this as my original work. This is a continual work in progress. 
 
 > [!bible]+ [John 8:32 - ESV](https://bolls.life/ESV/43/8/) [[John]]
 >  <sup> 32 </sup>and you will know the truth, and the truth will set you free.”

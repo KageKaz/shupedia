@@ -1,5 +1,8 @@
 ---
 aliases:
   - God's
-date: 2024-02-04
+  - Gods
+  - god
+  - gods
+date: 2024-09-25
 ---

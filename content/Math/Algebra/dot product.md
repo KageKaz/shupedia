@@ -1,5 +1,5 @@
 ---
-date: 2024-07-20
+date: 2025-01-11
 ---
 > [!definition] 
 > $\vec{a}\cdot \vec{b}=\|\vec{a}\|\|\vec{b}\|\cos \theta=a_{x}b_{x}+a_{y}b_{y}$

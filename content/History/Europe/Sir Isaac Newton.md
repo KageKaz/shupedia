@@ -1,0 +1,5 @@
+---
+aliases:
+  - Newton
+date: 2024-08-14
+---
