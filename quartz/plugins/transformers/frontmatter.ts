@@ -8,12 +8,12 @@ import { QuartzPluginData } from "../vfile"
 import { i18n } from "../../i18n"
 
 export interface Options {
-  delims: string | string[]
+  delimiters: string | [string, string]
   language: "yaml" | "toml"
 }
 
 const defaultOptions: Options = {
-  delims: "---",
+  delimiters: "---",
   language: "yaml",
 }
 
@@ -40,7 +40,7 @@ function coerceToArray(input: string | string[]): string[] | undefined {
     .map((tag: string | number) => tag.toString())
 }
 
-export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts) => {
+export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
     name: "FrontMatter",
@@ -57,9 +57,9 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> 
               },
             })
 
-            if (data.title) {
+            if (data.title != null && data.title.toString() !== "") {
               data.title = data.title.toString()
-            } else if (data.title === null || data.title === undefined) {
+            } else {
               data.title = file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title
             }
 
@@ -70,6 +70,22 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> 
             if (aliases) data.aliases = aliases
             const cssclasses = coerceToArray(coalesceAliases(data, ["cssclasses", "cssclass"]))
             if (cssclasses) data.cssclasses = cssclasses
+
+            const socialImage = coalesceAliases(data, ["socialImage", "image", "cover"])
+
+            const created = coalesceAliases(data, ["created", "date"])
+            if (created) data.created = created
+            const modified = coalesceAliases(data, [
+              "modified",
+              "lastmod",
+              "updated",
+              "last-modified",
+            ])
+            if (modified) data.modified = modified
+            const published = coalesceAliases(data, ["published", "publishDate", "date"])
+            if (published) data.published = published
+
+            if (socialImage) data.socialImage = socialImage
 
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
@@ -87,11 +103,17 @@ declare module "vfile" {
     } & Partial<{
         tags: string[]
         aliases: string[]
+        modified: string
+        created: string
+        published: string
         description: string
-        publish: boolean
-        draft: boolean
+        publish: boolean | string
+        draft: boolean | string
+        lang: string
         enableToc: string
         cssclasses: string[]
+        socialImage: string
+        comments: boolean | string
       }>
   }
 }
